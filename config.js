@@ -9,11 +9,11 @@ const cfg = {
     graphcoolToken: '',
     environment: environments.production,
     server: {
-        development: 'Test Server',
+        development: 'The Outhouse',
         production: 'InHouse League NA'
     },
     cmdChannels: {
-        development: ['test'],
+        development: ['bot-spam'],
         production: ['match-bot', 'misc-commands', 'pro-match-bot']
     },
     trueskill: {
@@ -26,7 +26,7 @@ const cfg = {
             initialSigma: 1.813
         }
     },
-    admins: []
+    admins: [186996009354788864]
 };
 
 export default cfg;
