@@ -4,9 +4,9 @@ const environments = {
 };
 
 const cfg = {
-    discordToken: '',
-    graphcoolId: '',
-    graphcoolToken: '',
+    discordToken: 'NTE3NTk4MzQ5NDQ1MTY5MTU0.DuEqyA.MG0KkbOSIhwWdHlMnehuc6T0BPo',
+    graphcoolId: 'cjp3ia1at5yks0147v19bteim',
+    graphcoolToken: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NDM0NzU0OTgsImNsaWVudElkIjoiY2pwMjlnam5oMnZwdzAxMDhkaTJpaWRrNSJ9.MtdcfE6ibXs_HD55S21WLcmJ9Qle3nSRIaQTFqMCIA4',
     environment: environments.production,
     server: {
         development: 'The Outhouse',
